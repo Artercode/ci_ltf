@@ -25,9 +25,7 @@ Android App & Game
         </section>
         <!-- ### akhir judul ### -->
 
-
-
-
+        <!-- ########## container card ########## -->
         <section class="container row mt-n2">
             <!-- coding -->
             <div class="col-md-12 col-lg-6">
@@ -65,5 +63,6 @@ Android App & Game
                 </div>
             </div>
         </section>
+        <!-- ### akhir container website ### -->
     </div>
 </div>
