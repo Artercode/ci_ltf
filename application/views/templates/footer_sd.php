@@ -1,5 +1,5 @@
 <footer class="main-footer">
-    151119 Bebas dicontek &copy; 2019-<?= date('Y') ?> <strong><a href="" class="ml-1">Komunitascoding</a>.</strong>
+    151119 Bebas dicontek &copy; 2019-<?= date('Y') ?> Komunitascoding. <strong><a href="https://github.com/Artercode/ci_ltf" target="_black" class="ml-1"><i class="fab fa-fw fa-github"></i> Github</a></strong>
     <div class="float-right d-none d-sm-inline-block">
         AdminLTE - <b>Version</b> 3.0.1
     </div>
