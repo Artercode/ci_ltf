@@ -24,7 +24,6 @@ class Login extends CI_Controller
         $this->form_validation->set_rules('password', 'Password', 'required|trim');
 
         if ($this->form_validation->run() == false) {
-            // alert untuk register berhasil menampilkannya di views/login/login.php
             $data['title'] = 'LOGIN';
             $this->load->view('templates/login_header', $data);
             $this->load->view('login/login');
@@ -48,7 +47,7 @@ class Login extends CI_Controller
             if ($user['is_active'] == 1) {
                 // cek password bandingkan yang ada dalam database
                 if (password_verify($password, $user['password'])) {
-                    // bila email dan password benar maka ...
+                    // bila email dan password benar maka cari jenis role nya
                     $data = [
                         'email' => $user['email'],
                         'role_id' => $user['role_id']
@@ -124,8 +123,8 @@ class Login extends CI_Controller
                 'date_created' => time()
             ];
 
-            // memasukan data ke database 
             // setting database di application/config/database.php
+            // memasukan data ke database 
             $this->db->insert('user', $data);
             $this->db->insert('user_token', $user_token);
             // kirim email ke alamat registrasi baru
