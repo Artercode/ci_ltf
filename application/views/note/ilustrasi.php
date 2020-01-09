@@ -38,7 +38,7 @@ letakkan tiap instrusi 1 kotak = 1 langkah.
                     <img src="<?= base_url('assets/img/catur.jpg') ?>" class="img-fluid">
                 </div>
                 <div class="col-sm-12 col-lg-6">
-                    <h6>Perhatikan papan catur disebelah kanan.</h6>
+                    <h6>Perhatikan papan catur disebelah kiri.</h6>
                     Kita akan berpindah dari A1 ke H8, di situ ada 3 cara berpindah atau cara berpikir kita untuk mencapai H8. Dari ketiga cara yang ada, sudah jelas kita akan memilih yang kedua, karena logika kita mengatakan hal itu, mencari cara termudah.
                     <br><br>
                     Untuk berpindah dari A1 ke H8 anda harus melalui kotak-kotak kecil itu selangkah demi selangkah, dan kotak-kotak kecil itulah pola pikir yang kami maksudkan. DAN KOTAK KECIL ITU BISA DIISI DENGAN 1 TINDAKAN atau PERINTAH.
