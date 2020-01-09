@@ -1,7 +1,8 @@
+<!-- ########## container halaman ########## -->
 <div class="container">
     <div class="card o-hidden border-0 shadow-lg col-sm-10 col-md-8 col-lg-6 col-xl-5 my-5 mx-auto">
         <div class="card-body p-0">
-            <!-- ########## isi card ########## -->
+            <!-- ########## card ########## -->
             <div class="col-lg px-4">
                 <div class="text-center">
                     <h1 class="h4 my-4 text-gray-900">Buat Akun!</h1>
@@ -50,7 +51,8 @@
                     <a class="small" href="<?= base_url('aula'); ?>"><i class="fas fa-fw fa-chair"></i> Aula</a>
                 </div>
             </div>
-            <!-- akhir isi card -->
+            <!-- ### akhir card ### -->
         </div>
     </div>
 </div>
+<!-- ### akhir container halaman ### -->

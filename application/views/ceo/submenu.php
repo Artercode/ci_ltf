@@ -1,4 +1,4 @@
-            <!-- halaman submenu dari menu -->
+            <!-- ########## container submenu ########## -->
             <div class="container-fluid">
                 <div class="row col-sm-10 col-lg justify-content-between">
                     <h1 class="h3 mb-4 text-gray-800"><?= $title; ?></h1>
@@ -59,13 +59,12 @@
                 </div>
                 <!-- akhir tabel -->
             </div>
-            <!-- akhir halamam submenu  -->
+            <!-- ### akhir container submenu ### -->
 
             <!-- bagian awal div ada di topbar.php - karena sidebar full di sebelah kanan -->
             </div>
 
-
-            <!-- modal submenu-->
+            <!-- ########## modal submenu ########## -->
             <div class="modal fade" id="submenuModal" tabindex="-1" role="dialog" aria-labelledby="submenuModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
@@ -115,10 +114,9 @@
                     </div>
                 </div>
             </div>
-            <!-- akhir modal submenu -->
+            <!-- ### akhir modal submenu ### -->
 
-
-            <!-- modal edit submenu  -->
+            <!-- ########## modal edit submenu ########## -->
             <div class="modal fade" id="editSubmenuModal" tabindex="-1" role="dialog" aria-labelledby="editSubmenuModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
@@ -172,4 +170,4 @@
                     </div>
                 </div>
             </div>
-            <!-- akhir modal edit submenu -->
+            <!-- ### akhir modal edit submenu ### -->

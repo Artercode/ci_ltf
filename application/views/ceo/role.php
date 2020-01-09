@@ -1,4 +1,4 @@
-            <!-- halaman role admin -->
+            <!-- ########## container role ########## -->
             <div class="container-fluid">
                 <div class="row col-sm-10 col-lg-6 justify-content-between">
                     <h1 class="h3 text-gray-800"><?= $title; ?></h1>
@@ -46,14 +46,12 @@
                 </div>
                 <!-- akhir tabel -->
             </div>
-            <!-- akhir halamam role  -->
+            <!-- ### container akhir role ### -->
 
             <!-- bagian awal div ada di topbar.php - karena sidebar full di sebelah kanan -->
             </div>
 
-
-
-            <!-- tambah role modal -->
+            <!-- ########## modal tambah role ########## -->
             <div class="modal fade" id="roleModal" tabindex="-1" role="dialog" aria-labelledby="roleModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
@@ -79,8 +77,8 @@
                     </div>
                 </div>
             </div>
-
-            <!-- edit role Modal -->
+            <!-- ### akhir modal tambah role ### -->
+            <!-- ########## modal edit role ########## -->
             <div class="modal fade" id="editRoleModal" tabindex="-1" role="dialog" aria-labelledby="editRoleModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
@@ -106,3 +104,4 @@
                     </div>
                 </div>
             </div>
+            <!-- ### akhir modal edit role ### -->

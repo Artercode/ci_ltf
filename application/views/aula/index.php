@@ -1,3 +1,4 @@
+<!-- ########## container halaman ########## -->
 <div class="content-wrapper">
     <div class="container mx-1">
         <!-- ########## judul ########## -->
@@ -34,3 +35,4 @@ Tempat nongkrong bareng, tu dah kami sediain kursinya
         </div>
     </div>
 </div>
+<!-- ### akhir container halaman ### -->

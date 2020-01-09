@@ -1,3 +1,4 @@
+<!-- ########## container halaman ########## -->
 <div class="content-wrapper">
     <div class="container mx-1">
         <!-- ########## judul ########## -->
@@ -86,9 +87,7 @@ letakkan tiap instrusi 1 kotak = 1 langkah.
                 <br><br><br><br>
             </div>
         </section>
-        <!-- akhir ilustrasi -->
+        <!-- ### akhir ilustrasi ### -->
     </div>
-    <!-- akhir halaman ilustrasi-->
 </div>
-</div>
-</div>
+<!-- ### container halaman ### -->

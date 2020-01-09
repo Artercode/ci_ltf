@@ -1,3 +1,4 @@
+<!-- ########## container halaman ########## -->
 <div class="content-wrapper">
     <div class="container mx-1">
         <!-- ########## judul ########## -->
@@ -30,7 +31,6 @@ dan diskusi soal projek tersebut.
         </section>
         <!-- ### akhir judul ### -->
 
-
         <section>
             <h4>Halaman untuk menampilkan projek yang sedang di kerjakan</h4>
             <h4>oleh para anggota agar kita dapat saling bantu.</h4>
@@ -41,3 +41,4 @@ dan diskusi soal projek tersebut.
         </section>
     </div>
 </div>
+<!-- ### akhir container halaman ### -->

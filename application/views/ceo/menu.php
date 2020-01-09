@@ -1,4 +1,4 @@
-            <!-- halaman menu -->
+            <!-- ########## container menu ########## -->
             <div class="container-fluid">
                 <div class="row col-sm-10 col-lg-6 justify-content-between">
                     <h1 class="h3 text-gray-800"><?= $title; ?></h1>
@@ -43,13 +43,12 @@
                 </div>
                 <!-- akhir tabel -->
             </div>
-            <!-- akhir halamam menu  -->
+            <!-- ### akhir container menu ### -->
 
             <!-- bagian awal div ada di topbar.php - karena sidebar full di sebelah kanan -->
             </div>
 
-
-            <!-- modal -->
+            <!-- ########## modal menu ########## -->
             <div class="modal fade" id="menuModal" tabindex="-1" role="dialog" aria-labelledby="menuModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
@@ -75,8 +74,8 @@
                     </div>
                 </div>
             </div>
-
-            <!-- edit menu modal -->
+            <!-- ### akhir modal menu ### -->
+            <!-- ########## modal edit menu ########## -->
             <div class="modal fade" id="editmenuModal" tabindex="-1" role="dialog" aria-labelledby="editmenuModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
@@ -102,3 +101,4 @@
                     </div>
                 </div>
             </div>
+            <!-- ### akhir modal edit menu -->
