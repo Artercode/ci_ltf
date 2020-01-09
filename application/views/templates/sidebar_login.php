@@ -1,7 +1,7 @@
-        <!-- Sidebar -->
+        <!-- Sidebar_login -->
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
-            <!-- Sidebar - Brand -->
+            <!-- judul Sidebar -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="ml-1 sidebar-brand-icon">
                     <i class="fas fa-fw fa-coffee"></i>
@@ -63,10 +63,9 @@
                 <?php endforeach; ?>
                 <!-- akhir looping menu -->
 
-
-                <!-- Logout -->
+                <!-- ########## Logout ########## -->
                 <li class="nav-item">
-                    <a class="nav-link" href="<?= base_url('login/logout'); ?>">
+                    <a class="nav-link" href="<?= base_url('login/logout'); ?>" data-toggle="modal" data-target="#logoutModal">
                         <i class="fas fa-fw fa-sign-out-alt"></i>
                         <span>Logout</span></a>
                 </li>

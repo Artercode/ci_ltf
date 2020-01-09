@@ -1,15 +1,11 @@
-        <!-- wrapper kontain - bagian akhir div ada di footer_login.php -->
+        <!-- awal wrapper kontain - bagian akhir div ada di footer_login.php -->
         <div id="content-wrapper" class="d-flex flex-column">
-            <!-- bagian akhir div ada di footer.php - karena sidebar full di sebelah kanan -->
-            <!-- Main Content -->
             <div id="content">
-                <!-- bagian akhir div ada di index.php - karena sidebar full di sebelah kanan -->
-
-                <!-- Topbar -->
+                <!-- ########## Topbar ########## -->
                 <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
                     <!-- Sidebar Toggle (Topbar) -->
                     <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
-                        <i class="fa fa-bars"></i>
+                        <i class="fa fa-fw fa-bars"></i>
                     </button>
 
                     <!-- Topbar Navbar -->
@@ -39,8 +35,6 @@
                                 </a>
                             </div>
                         </li>
-
                     </ul>
-
                 </nav>
-                <!-- End of Topbar -->
+                <!-- akhir Topbar -->

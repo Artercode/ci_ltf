@@ -167,8 +167,8 @@
                             LOGIN
                         </a>
                         <div class="dropdown-divider"></div>
-                        <!-- logout diarahkan ke auth/logout -->
-                        <a class="dropdown-item" href="<?= base_url('login/logout'); ?>" data-toggle="modal" data-target="#logoutModal">
+                        <!-- logout diarahkan ke login/logout -->
+                        <a class="dropdown-item" href="<?= base_url('aula/logout'); ?>" data-toggle="modal" data-target="#logoutModal">
                             <i class="fas fa-fw fa-sign-out-alt mr-2 text-gray-400"></i>
                             LOGOUT
                         </a>
