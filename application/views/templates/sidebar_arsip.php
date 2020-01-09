@@ -1,6 +1,6 @@
-    <!-- ########## sidebar arsip ########## -->
+    <!-- sidebar Container -->
     <aside class="main-sidebar sidebar-dark-primary elevation-4">
-        <!-- Brand Logo -->
+        <!-- judul sidebar -->
         <a href="" class="ml-3 brand-link">
             <i class="fas fa-fw fa-archive"></i>
             <span class="brand-text font-weight-light"> Arsip</span>
@@ -8,7 +8,7 @@
 
         <!-- Sidebar -->
         <div class="sidebar">
-            <!-- untuk user yang login -->
+            <!-- user yang login -->
             <div class="user-panel mt-3 pb-3 mb-2 d-flex">
                 <div class="image">
                     <img src="<?= base_url() ?>assets/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
@@ -28,8 +28,6 @@
                             <p>Website</p>
                         </a>
                     </li>
-
-
                 </ul>
             </nav>
             <!-- /.sidebar-menu -->
