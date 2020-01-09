@@ -1,7 +1,7 @@
 <div class="content-wrapper">
     <div class="container">
-        <div>
+        <section>
             <h1>aula</h1>
-        </div>
+        </section>
     </div>
 </div>

@@ -37,6 +37,6 @@ Sekedar tau aja
             <h5>6. Coding website ada di github, kami butuh bantuan untuk melengkapi modul yang bermanfaat bagi semua anggota.</h5>
             <h5>7. Koreksi dan ide kalian sangat kami butuhkan, infokan ke Admin. <a href="<?= base_url('selamat_datang') ?>"><kbd>Kontak</kbd></a></h5>
         </section>
-        <!-- akhir isi sekedar tau -->
+        <!-- ### akhir isi sekedar tau ### -->
     </div>
 </div>

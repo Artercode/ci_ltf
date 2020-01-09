@@ -25,9 +25,8 @@ Alamat camp kita.
         </section>
         <!-- ### akhir judul ### -->
 
-
+        <!-- ########## camp kediri ########## -->
         <section class="container col mt-n2">
-            <!-- camp kediri -->
             <div class="row">
                 <div class="col-md-12 col-lg-6">
                     <div class="card card-indigo">
@@ -50,8 +49,7 @@ Alamat camp kita.
                     </div>
                 </div>
             </div>
-            <!-- akhir camp kediri -->
-
         </section>
+        <!-- ### akhir camp kediri ### -->
     </div>
 </div>

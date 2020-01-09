@@ -7,7 +7,7 @@
                 <h3 class="mb-3">Sedang dikembangkan</h3>
             </div>
         </div>
-        <!-- akhir komunitascoding -->
+        <!-- ### akhir komunitascoding ### -->
 
         <!-- ########## collapse ########## -->
         <div class="">
@@ -37,7 +37,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- akhir sekilas petir -->
+                <!-- ### akhir sekilas petir ### -->
                 <!-- ########## ilustrasi ########## -->
                 <div class="card mt-n2">
                     <!-- kepala kedua -->
@@ -83,10 +83,10 @@
                     </div>
                     <!-- akhir bagian kedua -->
                 </div>
-                <!-- akhir ilustrasi -->
+                <!-- ### akhir ilustrasi ### -->
             </div>
         </div>
-        <!-- akhir collapse -->
+        <!-- ### akhir collapse ### -->
 
         <!-- ########## kontak ########## -->
         <div class="row">
@@ -97,6 +97,6 @@
                 <h5 class="mr-3">Kontak : <i class="fab fa-telegram"></i></i> +62 813 9504 5438 - Arter </h5>
             </div>
         </div>
-        <!-- akhir kontak -->
+        <!-- ### akhir kontak ### -->
     </div>
 </div>
