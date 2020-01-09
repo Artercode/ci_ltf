@@ -1,4 +1,4 @@
-        <!-- Content Wrapper -->
+        <!-- wrapper kontain - bagian akhir div ada di footer_login.php -->
         <div id="content-wrapper" class="d-flex flex-column">
             <!-- bagian akhir div ada di footer.php - karena sidebar full di sebelah kanan -->
             <!-- Main Content -->

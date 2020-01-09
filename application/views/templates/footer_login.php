@@ -1,4 +1,4 @@
-        <!-- Footer -->
+        <!-- ########## Footer ########## -->
         <footer class="sticky-footer bg-white">
             <div class="container my-auto">
                 <div class="copyright text-center my-auto">
@@ -9,19 +9,17 @@
         </footer>
         <!-- akhir Footer -->
 
-        <!-- bagian awal div ada di topbar.php - karena sidebar full di sebelah kanan -->
+        <!-- akhir wrapper kontain - bagian awal div ada di topbar_login.php -->
         </div>
-        <!-- End of Content Wrapper -->
-        <!-- bagian awal div ada di header.php - karena sidebar full di sebelah kanan -->
+        <!-- akhir warpper halaman - bagian awal div ada di header_login.php -->
         </div>
-        <!-- End of Page Wrapper -->
 
-        <!-- tombol Scroll pojok kiri bawah -->
+        <!-- tombol Scroll Up di pojok kiri bawah -->
         <a class="scroll-to-top rounded" href="#page-top">
-            <i class="fas fa-angle-up"></i>
+            <i class="fas fa-fw fa-angle-up"></i>
         </a>
 
-        <!-- logout di avatar kanan atas-->
+        <!-- ########### logout modal avatar kanan atas ########## -->
         <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
@@ -39,7 +37,7 @@
                 </div>
             </div>
         </div>
-        <!-- akhir logout di avatar kanan atas-->
+        <!-- akhir logout modal avatar kanan atas-->
 
 
         <!-- Bootstrap core JavaScript-->

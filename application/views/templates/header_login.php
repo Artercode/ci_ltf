@@ -17,6 +17,5 @@
 </head>
 
 <body id="page-top">
-    <!-- Page Wrapper -->
+    <!-- warpper halaman - bagian akhir div ada di footer_login.php  -->
     <div id="wrapper">
-        <!-- bagian akhir div ada di footer.php - karena sidebar full di sebelah kanan -->
