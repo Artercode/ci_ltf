@@ -30,7 +30,7 @@
     <!-- Control sidebar content goes here -->
 </aside>
 <!-- /.control-sidebar -->
-</div> <!-- pembuka div ada di header - wrapper -->
+</div> <!-- wrapper halaman - awal div ada di header_sd.php -->
 
 
 <!-- jQuery -->

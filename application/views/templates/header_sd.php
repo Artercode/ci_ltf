@@ -30,7 +30,7 @@
 </head>
 
 <body class="hold-transition sidebar-mini layout-fixed">
-    <!-- penutup div ada di footer -->
+    <!-- wrapper halaman - akhir div ada di footer_sd.php -->
     <div class="wrapper">
 
         <!-- Navbar -->
