@@ -23,15 +23,15 @@
         </div>
     </div>
 </div>
-<!-- akhir logout di avatar kanan atas-->
+<!-- akhir logout di modal avatar kanan atas-->
 
 <!-- Control Sidebar -->
 <aside class="control-sidebar control-sidebar-dark">
     <!-- Control sidebar content goes here -->
 </aside>
 <!-- /.control-sidebar -->
-</div>
-<!-- ./wrapper -->
+</div> <!-- pembuka div ada di header - wrapper -->
+
 
 <!-- jQuery -->
 <script src="<?= base_url() ?>assets/plugins/jquery/jquery.min.js"></script>

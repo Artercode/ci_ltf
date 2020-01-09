@@ -30,14 +30,15 @@
 </head>
 
 <body class="hold-transition sidebar-mini layout-fixed">
+    <!-- penutup div ada di footer -->
     <div class="wrapper">
 
         <!-- Navbar -->
         <nav class="main-header navbar navbar-expand navbar-white navbar-light">
-            <!-- Left navbar links -->
+            <!-- ########## navbar link kiri ########## -->
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a>
+                    <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-fw fa-bars"></i></a>
                 <li class="nav-item ml-n2 d-none d-sm-inline-block">
                     <a href="<?= base_url('selamat_datang') ?>" class="nav-link"><i class="fas fa-fw fa-child"></i></a>
                 </li>
@@ -46,6 +47,7 @@
                     <a href="<?= base_url('aula') ?>" class="nav-link"><i class="fas fa-fw fa-chair"></i></a>
                 </li>
             </ul>
+            <!-- akhir navbar link kiri -->
             <!-- SEARCH FORM -->
             <form class="form-inline ml-3">
                 <div class="input-group input-group-sm">
@@ -58,7 +60,7 @@
                 </div>
             </form>
 
-            <!-- Right navbar links -->
+            <!-- ########## navbar link kanan ########## -->
             <ul class="navbar-nav ml-auto">
                 <!-- Messages Dropdown Menu -->
                 <li class="nav-item dropdown">
@@ -173,11 +175,13 @@
                     </div>
                 </li>
                 <!-- akhir login/logout -->
+
                 <!-- <li class="nav-item">
                     <a class="nav-link" data-widget="control-sidebar" data-slide="true" href="#">
                         <i class="fas fa-th-large"></i>
                     </a>
                 </li> -->
             </ul>
+            <!-- akhir navbar link kanan -->
         </nav>
-        <!-- /.navbar -->
+        <!-- akhir navbar -->
