@@ -33,9 +33,10 @@ Sekedar tau aja
                 untuk mempermudah teman kita mempelajari coding.</h5>
             <h5>3. Gunakan bahasa sehari-hari, gak perlu EYD yang penting sopan dan mudah dipahami.</h5>
             <h5>4. Komunitascoding tempat untuk semua, gampangnya tempat umum. <i class="far fa-grin-beam"></i></h5>
-            <h5>5. Komunitascoding 100% nirlaba website sampai kiamat. <i class="far fa-grin-beam"></i></h5>
-            <h5>6. Coding website ada di github, kami butuh bantuan untuk melengkapi modul yang bermanfaat bagi semua anggota.</h5>
-            <h5>7. Koreksi dan ide kalian sangat kami butuhkan, infokan ke Admin. <a href="<?= base_url('selamat_datang') ?>"><kbd>Kontak</kbd></a></h5>
+            <h5>5. Admin akan dipilih secara demokrasi dari para anggota oleh anggota.</h5>
+            <h5>6. Komunitascoding 100% nirlaba website sampai kiamat. <i class="far fa-grin-beam"></i></h5>
+            <h5>7. Coding website ada di github, kami butuh bantuan untuk melengkapi modul yang bermanfaat bagi semua anggota.</h5>
+            <h5>8. Koreksi dan ide kalian sangat kami butuhkan, infokan ke Admin. <a href="<?= base_url('selamat_datang') ?>"><kbd>Kontak</kbd></a></h5>
         </section>
         <!-- ### akhir isi sekedar tau ### -->
     </div>
